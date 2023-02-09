@@ -1,3 +1,7 @@
+## ReadME
+
+Portfolio project to create an atomic swap app using React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
