@@ -147,5 +147,58 @@ button#db {
 }
 
 .section-2 {
+    display: flex;
+    flex-direction: column;
+
     background-color: black;
+    color: #FFFFFF;
+}
+
+.s2--header, .chart--container {
+    margin-left: 4rem;
+}
+
+.s2--header {
+    margin-top: 8rem;
+    font-family: 'Aeonik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.selector--container {
+    display: flex;
+    margin-bottom: 2rem;
+    margin-top: 4.5rem;
+}
+
+.chart--container {
+    display: flex;
+    flex-direction: column;
+    margin-right: 4rem;
+}
+
+.selector {
+    display: flex;
+    margin-left: auto;
+    gap: 1rem;
+}
+
+#interval, #token {
+    padding: .75rem 1rem;
+    border: 1px solid black;
+}
+
+.selected {
+    background-color: #343434;
+}
+
+#token {
+    border-radius: 8px;
+    background-color: #343434;
+}
+
+#interval {
+    border-radius: 24px;
 }

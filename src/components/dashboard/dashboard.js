@@ -4,6 +4,7 @@ import logoWithdraw from "./images/withdraw.svg"
 import logoConvert from "./images/convert.svg"
 import upOnly from "./images/Up.svg"
 import downOnly from "./images/Down.svg"
+import chartImg from "./images/chart.svg"
 
 
 const Dashboard = () => {
@@ -56,7 +57,22 @@ const Dashboard = () => {
             </div>
             <div className="divider"></div>
             <div className="section-2">
-                <div></div>
+                <div className="s2--header">
+                    Trend Overview
+                </div>
+                <div className="chart--container">
+                    <div className="selector--container">
+                        <div id="token">BTC</div>
+                        <div className="selector">
+                            <div id="interval">Daily</div>
+                            <div id="interval" className="selected">Monthly</div>
+                            <div id="interval">Yearly</div>
+                        </div>
+                    </div>
+                    <div>
+                        <img src={chartImg} alt="chart"/>
+                    </div>
+                </div>
             </div>
         </div>
     )
