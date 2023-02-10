@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/swap-app/static/css/main.d5012f41.css",
-    "main.js": "/swap-app/static/js/main.a78b471c.js",
+    "main.css": "/swap-app/static/css/main.1835bb72.css",
+    "main.js": "/swap-app/static/js/main.533c881f.js",
     "static/media/settings.svg": "/swap-app/static/media/settings.81d8ba7de77f573841a3de2a594f32ea.svg",
     "static/media/wallet.svg": "/swap-app/static/media/wallet.76e79315cb75c2c5dfe83f374dd79744.svg",
     "static/media/notification.svg": "/swap-app/static/media/notification.a9c20a5e88693fcc6a8e8ceb1eddbe5d.svg",
@@ -11,11 +11,11 @@
     "static/media/logo.svg": "/swap-app/static/media/logo.e48bf9d94bc16011785eba8558a66afd.svg",
     "index.html": "/swap-app/index.html",
     "static/media/dashboard-selected.svg": "/swap-app/static/media/dashboard-selected.ab1599e545dd694042e39e153e1f9284.svg",
-    "main.d5012f41.css.map": "/swap-app/static/css/main.d5012f41.css.map",
-    "main.a78b471c.js.map": "/swap-app/static/js/main.a78b471c.js.map"
+    "main.1835bb72.css.map": "/swap-app/static/css/main.1835bb72.css.map",
+    "main.533c881f.js.map": "/swap-app/static/js/main.533c881f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5012f41.css",
-    "static/js/main.a78b471c.js"
+    "static/css/main.1835bb72.css",
+    "static/js/main.533c881f.js"
   ]
 }
