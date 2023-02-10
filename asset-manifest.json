@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5012f41.css",
+    "main.js": "/static/js/main.18e446af.js",
+    "static/media/settings.svg": "/static/media/settings.81d8ba7de77f573841a3de2a594f32ea.svg",
+    "static/media/wallet.svg": "/static/media/wallet.76e79315cb75c2c5dfe83f374dd79744.svg",
+    "static/media/notification.svg": "/static/media/notification.a9c20a5e88693fcc6a8e8ceb1eddbe5d.svg",
+    "static/media/market.svg": "/static/media/market.360e73b8f892261a72ff37d24bec3942.svg",
+    "static/media/logout.svg": "/static/media/logout.6b25f4f3cec614f92e41ec3e83bf12f5.svg",
+    "static/media/swap.svg": "/static/media/swap.25e7a74c81695c43bf2f5b45f544d9b4.svg",
+    "static/media/logo.svg": "/static/media/logo.e48bf9d94bc16011785eba8558a66afd.svg",
+    "static/media/dashboard-selected.svg": "/static/media/dashboard-selected.ab1599e545dd694042e39e153e1f9284.svg",
+    "index.html": "/index.html",
+    "main.d5012f41.css.map": "/static/css/main.d5012f41.css.map",
+    "main.18e446af.js.map": "/static/js/main.18e446af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5012f41.css",
+    "static/js/main.18e446af.js"
+  ]
+}
