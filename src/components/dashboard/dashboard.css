@@ -1,16 +1,12 @@
 .db--container {
     display: flex;
     flex-direction: column;
-    width: 1046px;
-    height: 1280px;
-    top: 3px;
-    background-color: aqua;
 }
 
 .section-1, .section-2 {
     display: flex;
     height: 50%;
-    width: 100%;
+    width: 65rem;
 }
 
 .section-1 {
@@ -177,6 +173,10 @@ button#db {
     display: flex;
     flex-direction: column;
     margin-right: 4rem;
+}
+
+.chart--container img {
+
 }
 
 .selector {

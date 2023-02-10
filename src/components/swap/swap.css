@@ -1,7 +1,58 @@
 .swap--container {
     display: flex;
-    width: 608px;
-    height: 1280px;
-    
+    flex-direction: column;
     background: #1A1A1A;
+}
+
+.swap--header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 4rem;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+
+    gap: 1rem;
+}
+
+#search {
+    background-color: #101010;
+    border-radius: 8px;
+    padding: 14px 16px;
+
+    width: 311px;
+    height: 52px;
+}
+
+#user {
+    margin-left: 1.5rem;
+}
+
+#label {
+    margin-bottom: 1.5rem;
+}
+
+.convert--container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 4rem;
+    font-family: 'Aeonik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.swap--convert {
+    display: flex;
+    height: 22rem;
+    width: 30rem;
+
+    border-radius: 16px;
+    background-color: #121212
+}
+
+.swap--assets {
+    
 }
