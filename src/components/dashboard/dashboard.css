@@ -1,0 +1,151 @@
+.db--container {
+    display: flex;
+    flex-direction: column;
+    width: 1046px;
+    height: 1280px;
+    top: 3px;
+    background-color: aqua;
+}
+
+.section-1, .section-2 {
+    display: flex;
+    height: 50%;
+    width: 100%;
+}
+
+.section-1 {
+    background-color: black;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+}
+
+.s1--header, .s1--balance, .s1--trends {
+    margin-left: 4rem;
+}
+
+.s1--header {
+    display: flex;
+    padding: 1rem;
+    margin-top: 2.5rem;
+}
+
+button#db {
+    margin-left: auto;
+    background: #2D2D2D;
+    border-radius: 8px;
+    padding: .75rem 1rem;
+    color: #FFFFFF;
+}
+
+.s1--balance {
+    width: 503px;
+    height: 141px;
+    margin-top: 4.5rem;
+    padding: 1rem;
+}
+
+#header {
+    width: 143px;
+    height: 29px;
+    font-family: 'Aeonik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.bal--container {
+    display: flex;
+}
+
+.bal--container #t1d {
+    display: flex;
+    align-items: center;
+    border-radius: 2rem;
+
+    font-family: 'Aeonik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    border: 1px solid #2EBE7B;
+    color: #2EBE7B;
+
+    padding: 6px 12px 7px;
+    height: 1.5rem;
+    gap: 4px;
+}
+
+.bal--container #t1d img {
+    height: 14px;
+    margin-left: .5rem;
+}
+
+#bal {
+    width: 300px;
+    height: 96px;
+
+    font-family: 'Aeonik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 96px;
+}
+
+.s1--trends {
+    margin-top: 4rem;
+    display: flex;
+}
+
+.trend--container {
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.trend--1d, .trend--7d, .trend--30d {
+    display: flex;
+    gap: .5rem;
+}
+
+.acc--container {
+    display: flex;
+    margin-left: auto;
+    margin-right: 4.5rem;
+    gap: 1rem;
+}
+
+#func {
+    display: flex;
+    flex-direction: column;
+    height: 1rem;
+    align-items: center;
+    color: #747474;
+}
+
+#func img {
+    height: 3rem;
+    margin-bottom: .5rem;
+}
+
+#t-label {
+    font-family: 'Aeonik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    margin-bottom: .5rem;
+
+    color: #747474;
+}
+
+.divider, .trend--div {
+    border: 1px solid grey;
+}
+
+.section-2 {
+    background-color: black;
+}
