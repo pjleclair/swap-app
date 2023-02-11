@@ -87,6 +87,8 @@
 .list--item:hover, .list--item:focus, .list--item:active {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+
+    cursor: pointer;
 }
 
 .list--container {
@@ -98,4 +100,20 @@
 
     width: 200px;
     height: 304px;
+}
+
+#logout:hover {
+    animation: 1s infinite alternate glow;
+    cursor: pointer;
+}
+
+@keyframes glow {
+    from {
+        color: #747474;
+    }
+    to {
+        color: #1A1A1A;
+        box-shadow: 0 .25rem 1rem 1rem #FFFFFF;
+        background-color: #FFFFFF;
+    }
 }

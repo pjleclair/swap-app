@@ -27,7 +27,7 @@ const Sidebar = () => {
             </div>
             <div className="sb--logout">
                 <img src={logoLogout} alt="icon"/>
-                <div>Log out</div>
+                <div id="logout">Log out</div>
             </div>
         </div>
     )
