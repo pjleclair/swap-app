@@ -1,6 +1,7 @@
 .swap--container {
     display: flex;
     flex-direction: column;
+    align-items: center;
     background: #1A1A1A;
 }
 
@@ -54,5 +55,62 @@
 }
 
 .swap--assets {
-    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 1.5rem;
+
+    color: #FFFFFF;
+
+    height: 22rem;
+    width: 30rem;
+}
+
+.asset--header {
+    display: flex;
+    align-items: center;
+    margin-top: 2.5rem;
+    margin-bottom: 1.5rem;
+
+    color: #FFFFFF;
+
+    width: 30rem;
+}
+
+.asset--container {
+    display: flex;
+    flex-direction: column;
+
+    border-radius: 16px;
+    background-color: #121212
+}
+
+.asset {
+    display: flex;
+    align-items: center;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+#logo {
+    margin-right: 1.5rem;
+}
+
+#ticker {
+    color: #747474;
+}
+
+#selector {
+    margin-left: auto;
+    background: #2D2D2D;
+    border-radius: 8px;
+    padding: .75rem 1rem;
+}
+
+#chart {
+    /* width: 5rem; */
+}
+
+.trend--1d {
+
 }
