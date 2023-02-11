@@ -84,6 +84,11 @@
     background: #1A1A1A;
 }
 
+.list--item:hover, .list--item:focus, .list--item:active {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
 .list--container {
     display: flex;
     flex-direction: column;
