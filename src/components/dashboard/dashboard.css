@@ -28,6 +28,7 @@
 
 button#db {
     margin-left: auto;
+    margin-right: 4rem;
     background: #2D2D2D;
     border-radius: 8px;
     padding: .75rem 1rem;
