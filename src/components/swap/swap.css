@@ -45,13 +45,121 @@
     color: #FFFFFF;
 }
 
-.swap--convert {
-    display: flex;
-    height: 22rem;
+.swap--convert-container {
+    border-radius: 16px;
+    background-color: #121212;
     width: 30rem;
 
-    border-radius: 16px;
-    background-color: #121212
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swap--convert {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 22rem;
+    width: 25rem;
+   
+    font-family: 'Aeonik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    
+    color: #FFFFFF;
+}
+
+.swapFrom--container {
+    margin: 2.5rem 2.5rem 1rem 2.5rem;
+}
+
+.swapTo--container {
+    margin: 1rem 2.5rem 1.5rem 2.5rem;
+}
+
+.swapFrom--container, .swapTo--container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 25rem;
+    height: 4rem;
+
+    background: #343434;
+    border-radius: 8px;
+}
+
+.val--container {
+    display: flex;
+    flex-direction: column;
+    width: 25rem;
+    height: 12rem;
+}
+
+#coin {
+    display: flex;
+    align-items: center;
+    background: #404040;
+    border-radius: 8px;
+    padding: .75rem 1rem;
+    gap: 1rem;
+    width: 6rem;
+    margin: .5rem .5rem .5rem 0;
+}
+
+#val {
+    display: flex;
+    margin: 1.3rem 0 1.3rem 1rem;
+}
+
+#coin img {
+    width: 1.5rem;
+}
+
+.switch--div {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: 25rem;
+    margin: 0 2.5rem;
+}
+
+#div {
+    border: 1px solid #343434;
+    width: 10rem;
+    height: 0;
+}
+
+#fee {
+    margin: 1rem 0;
+}
+
+.tx--container {
+    display: flex;
+    width: 25rem;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2.5rem;
+
+    font-weight: 400;
+    color: #747474;
+}
+
+button#swap {
+    background: #1459F5;
+    color: #FFFFFF;
+    box-shadow: inset 0px -3px 1px rgba(112, 156, 255, 0.2);
+    border-radius: 8px;
+
+    height: 3rem;
+    width: 7rem;
+}
+
+.swap--assets-container {
+    margin-top: 2.5rem;
 }
 
 .swap--assets {
