@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/swap-app/static/css/main.a6dc0294.css",
-    "main.js": "/swap-app/static/js/main.0f192e57.js",
+    "main.css": "/swap-app/static/css/main.851d393f.css",
+    "main.js": "/swap-app/static/js/main.0b8bb5d4.js",
     "static/media/User.svg": "/swap-app/static/media/User.61e09319fc8d9fdcf6e70a0d921cecec.svg",
     "static/media/chart.svg": "/swap-app/static/media/chart.334b92f5fbac88c2377f1758bcf8a749.svg",
     "static/media/settings.svg": "/swap-app/static/media/settings.81d8ba7de77f573841a3de2a594f32ea.svg",
     "static/media/btc-logo.svg": "/swap-app/static/media/btc-logo.e0463de6d15d19bfe6bbc886665bf093.svg",
+    "static/media/usdt-logo.svg": "/swap-app/static/media/usdt-logo.1b4b973932e4e7b22c0f10ea1c833e30.svg",
     "static/media/wallet.svg": "/swap-app/static/media/wallet.76e79315cb75c2c5dfe83f374dd79744.svg",
     "static/media/notification.svg": "/swap-app/static/media/notification.a9c20a5e88693fcc6a8e8ceb1eddbe5d.svg",
     "static/media/market.svg": "/swap-app/static/media/market.360e73b8f892261a72ff37d24bec3942.svg",
@@ -13,20 +14,27 @@
     "static/media/logout.svg": "/swap-app/static/media/logout.6b25f4f3cec614f92e41ec3e83bf12f5.svg",
     "static/media/swap.svg": "/swap-app/static/media/swap.25e7a74c81695c43bf2f5b45f544d9b4.svg",
     "static/media/logo.svg": "/swap-app/static/media/logo.e48bf9d94bc16011785eba8558a66afd.svg",
+    "static/media/eth-logo.svg": "/swap-app/static/media/eth-logo.7f7b335814a426721ecf6745a1ef3563.svg",
     "index.html": "/swap-app/index.html",
+    "static/media/doge-logo.svg": "/swap-app/static/media/doge-logo.b8cb78d49a6cf0f946c79e4e69054b9b.svg",
     "static/media/dashboard-selected.svg": "/swap-app/static/media/dashboard-selected.ab1599e545dd694042e39e153e1f9284.svg",
+    "static/media/ltc-logo.svg": "/swap-app/static/media/ltc-logo.178e23ccb1e7bd9a3a4d9aa2e1f9eee9.svg",
+    "static/media/ltc-chart.svg": "/swap-app/static/media/ltc-chart.0e7d065131001b9d8a9ed14945ae2b50.svg",
     "static/media/convert.svg": "/swap-app/static/media/convert.762b9e86710f8083074f1c9ef0ecfb9a.svg",
+    "static/media/Switch.svg": "/swap-app/static/media/Switch.9e41c632516e32b516817b16973279d5.svg",
+    "static/media/eth-chart.svg": "/swap-app/static/media/eth-chart.82e7c764c49fc3cdac45717577e2e145.svg",
     "static/media/btc-chart.svg": "/swap-app/static/media/btc-chart.d45b03c28e9ffe30b3382259483791db.svg",
+    "static/media/doge-chart.svg": "/swap-app/static/media/doge-chart.0d856556581447afd3a32b19e0e0c0fd.svg",
     "static/media/add.svg": "/swap-app/static/media/add.71e20bf2a0b2bd7f7932755667bb2d34.svg",
     "static/media/Message.svg": "/swap-app/static/media/Message.66e4a54da82af037a2e9ebf42fcc21f9.svg",
     "static/media/withdraw.svg": "/swap-app/static/media/withdraw.d0742bbf5b4cfa389873e096dd6e84b9.svg",
     "static/media/Down.svg": "/swap-app/static/media/Down.6014588f9b8f06e19a5379e306ae0e87.svg",
     "static/media/Up.svg": "/swap-app/static/media/Up.87cd62fd19afbd64bf818eac93b28f11.svg",
-    "main.a6dc0294.css.map": "/swap-app/static/css/main.a6dc0294.css.map",
-    "main.0f192e57.js.map": "/swap-app/static/js/main.0f192e57.js.map"
+    "main.851d393f.css.map": "/swap-app/static/css/main.851d393f.css.map",
+    "main.0b8bb5d4.js.map": "/swap-app/static/js/main.0b8bb5d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6dc0294.css",
-    "static/js/main.0f192e57.js"
+    "static/css/main.851d393f.css",
+    "static/js/main.0b8bb5d4.js"
   ]
 }
