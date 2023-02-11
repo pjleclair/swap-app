@@ -77,6 +77,14 @@
     width: 30rem;
 }
 
+#header {
+    font-family: 'Aeonik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
 .asset--container {
     display: flex;
     flex-direction: column;
@@ -109,8 +117,30 @@
 
 #chart {
     /* width: 5rem; */
+    margin: 1.5rem;
 }
 
-.trend--1d {
+.asset--vals {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
 
+.asset--vals .trend--1d {
+    display: flex;
+    align-items: center;
+    border-radius: 2rem;
+
+    font-family: 'Aeonik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    border: 1px solid #2EBE7B;
+    color: #2EBE7B;
+    background: rgba(46, 190, 123, 0.2);
+
+    padding: 6px 12px 7px;
+    height: 1.5rem;
+    gap: 4px;
 }

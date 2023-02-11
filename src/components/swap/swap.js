@@ -24,7 +24,7 @@ const Swap = () => {
                     <div className="swap--container"></div>
                 </div>
             </div>
-            <div className="asset--header">My Assets <div id="selector">Popular</div></div>
+            <div className="asset--header"><div id="header">My Assets</div><div id="selector">Popular</div></div>
             <div className="swap--assets">
                 <div className="asset--container">
                     <div className="asset">
