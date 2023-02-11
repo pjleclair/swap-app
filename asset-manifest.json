@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/swap-app/static/css/main.ac5161c2.css",
-    "main.js": "/swap-app/static/js/main.0b8bb5d4.js",
+    "main.css": "/swap-app/static/css/main.92f335dd.css",
+    "main.js": "/swap-app/static/js/main.8dbcd5f8.js",
     "static/media/User.svg": "/swap-app/static/media/User.61e09319fc8d9fdcf6e70a0d921cecec.svg",
     "static/media/chart.svg": "/swap-app/static/media/chart.334b92f5fbac88c2377f1758bcf8a749.svg",
     "static/media/settings.svg": "/swap-app/static/media/settings.81d8ba7de77f573841a3de2a594f32ea.svg",
@@ -30,11 +30,11 @@
     "static/media/withdraw.svg": "/swap-app/static/media/withdraw.d0742bbf5b4cfa389873e096dd6e84b9.svg",
     "static/media/Down.svg": "/swap-app/static/media/Down.6014588f9b8f06e19a5379e306ae0e87.svg",
     "static/media/Up.svg": "/swap-app/static/media/Up.87cd62fd19afbd64bf818eac93b28f11.svg",
-    "main.ac5161c2.css.map": "/swap-app/static/css/main.ac5161c2.css.map",
-    "main.0b8bb5d4.js.map": "/swap-app/static/js/main.0b8bb5d4.js.map"
+    "main.92f335dd.css.map": "/swap-app/static/css/main.92f335dd.css.map",
+    "main.8dbcd5f8.js.map": "/swap-app/static/js/main.8dbcd5f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac5161c2.css",
-    "static/js/main.0b8bb5d4.js"
+    "static/css/main.92f335dd.css",
+    "static/js/main.8dbcd5f8.js"
   ]
 }
